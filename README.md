@@ -1,3 +1,5 @@
-Fruit Ninja on Kinect
+##Fruit Ninja on Kinect
 
-Needs the Kinect Launcher to start : https://github.com/CDXdev/KinectLauncher
+Demo on youtube : https://youtu.be/D5O2LnrGxX8
+
+IMPORTANT : Needs the Kinect Launcher to start : https://github.com/CDXdev/KinectLauncher (please read the readme to build)
